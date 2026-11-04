@@ -1,2 +1,3 @@
+# Shawng Labya
 # shawnglabya.github.io
-my personal web
+This is my personal web
